@@ -10,6 +10,7 @@ Las tres técnicas que he tenido que utilizar para realizar la PEC2 son:
 - Venn Diagrams
 - Spiral Plot
 
+<hr />
 
 [![Generic badge](https://img.shields.io/badge/CIRCLE_PACKING-Flourish-blue.svg)](https://public.flourish.studio/visualisation/15639892/)
 
@@ -18,6 +19,8 @@ Las tres técnicas que he tenido que utilizar para realizar la PEC2 son:
 <p align="left">
   <a href="https://public.flourish.studio/visualisation/15639892/" target="_blank"><img src="/assets/circle_packing.png" width="450" alt="accessibility text"></a>
 </p>
+
+<hr />
 
 [![Generic badge](https://img.shields.io/badge/VENN_DIAGRAM-Tableau-blue.svg)](https://shields.io/)
 
