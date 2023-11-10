@@ -32,4 +32,12 @@ Las tres técnicas que he tenido que utilizar para realizar la PEC2 son:
 
 <hr />
 
-[![Generic badge](https://img.shields.io/badge/SPIRAL_PLOT-Tableau-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/SPIRAL_PLOT-Tableau-blue.svg)](https://public.tableau.com/app/profile/sergio.sanchez5165/viz/TemperaturamediaenlacomarcadeBarcelons/TemperaturamediaenBarcelons)
+
+<strong>"Temperatura media en la comarca de Barcelonés"</strong><br />
+<i>Data source:&nbsp;</i> <a href="https://www.meteo.cat/wpweb/climatologia/dades-i-productes-climatics/series-climatiques-des-de-1950/" target="_blank">meteo.cat - Sèries climàtiques des de 1950</a>
+<p align="left">
+  <a href="https://public.tableau.com/app/profile/sergio.sanchez5165/viz/TemperaturamediaenlacomarcadeBarcelons/TemperaturamediaenBarcelons" target="_blank"><img src="/assets/spiral_plot.png" width="450" alt="Spiral Plot"></a>
+</p>
+
+<hr />
