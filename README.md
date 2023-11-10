@@ -24,7 +24,7 @@ Las tres técnicas que he tenido que utilizar para realizar la PEC2 son:
 
 [![Generic badge](https://img.shields.io/badge/VENN_DIAGRAM-Tableau-blue.svg)](https://public.tableau.com/app/profile/sergio.sanchez5165/viz/Customersupermarketorders/VennDiagram-CustomersupermarketordersbyUSregionEastWest)
 
-<strong>"Customer supermarket orders by US region East & West"</strong><br />
+<strong>"Pedidos en supermercado de clientes de EE.UU por región"</strong><br />
 <i>Data source:&nbsp;</i> <a href="https://community.tableau.com/s/contentdocument/0694T000001GnpUQAS" target="_blank">community.tableau.com - File: Sample - Superstore.xls</a>
 <p align="left">
   <a href="https://public.tableau.com/app/profile/sergio.sanchez5165/viz/Customersupermarketorders/VennDiagram-CustomersupermarketordersbyUSregionEastWest" target="_blank"><img src="/assets/venn_diagram.png" width="450" alt="Venn Diagram"></a>
